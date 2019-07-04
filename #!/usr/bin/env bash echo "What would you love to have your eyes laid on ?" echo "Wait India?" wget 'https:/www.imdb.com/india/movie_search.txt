@@ -1,0 +1,3 @@
+scraping the anchor tag will lend me the privilege of extracting the title code specified for each indian movie
+example <a href="/title/tt72945341">
+if lynx --dump $(wget https://www.imdb.com/table/$value) is used then i will fetch the resultant movie page with star cast and directors name
